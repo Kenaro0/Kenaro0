@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Rawah Alsaadi 😆
 
-<!--
-**Kenaro0/Kenaro0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year **Cybersecurity** student passionate about defensive security,
+threat detection, and system hardening.
 
-Here are some ideas to get you started:
+## 🔐 Security Projects
+- **[Phishing & Quishing Detector Bot](link)** — Discord bot that detects
+  phishing links and malicious QR codes in real time.
+- **[Windows Hardening Lab](link)** — Vulnerability assessment and hardening
+  of Windows Server & Windows 11 using Kali Linux.
+- **[Client-Server File Transfer](link)** — Java socket-based file transfer
+  application.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Other Projects
+- **[A* Pathfinding Game AI](link)** — Java, Data Structures & Algorithms
+- **[Supermarket Checkout Simulation](link)** — C on Linux, OS concepts
+- **[Airport Management System](link)** — Java, OOP
+- **[Aman – Kindergarten Guardian System](link)** — Software Engineering
+
+## 🛠️ Skills
+`Java` `Python` `C` `Linux / Kali` `Windows Server` `Networking` `Git`
